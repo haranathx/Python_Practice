@@ -3,7 +3,7 @@ def hello():
     print('what next?')
 
 hello()
-
+# ////////////////////////////////////////////////////////////
 name='Hara'
 
 def hello():
