@@ -16,15 +16,3 @@ for i in range(len(nums)):
     seen[num]=i
 
 
-
-
-
-
-
-
-
-
-# num1 = nums[0]
-# num2 =target - nums[0]
-# two_sum = [num1, num2]
-# print(two_sum)
