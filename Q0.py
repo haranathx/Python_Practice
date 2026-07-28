@@ -1,3 +1,5 @@
+# Reverse list using 2 pointer
+
 nums = [10, 20, 30, 40]
 
 left = 0

@@ -8,6 +8,9 @@ for num in nums:
 
 print(new_list)
 
+
+
+
 # new_list + [num]	Appended to the end	Original order
 # [num] + new_list	Prepended to the front	Reversed order
 
