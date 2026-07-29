@@ -3,6 +3,15 @@
 nums = [12, 5, 8, 21, 17]
 target = 21
 
+for i in nums:
+    if i==target:
+        print("Found")
+        break
+
+else:
+    print("Not Found")
+
+################################################
 for num in nums:
     if target==num:
         print(True)
@@ -10,3 +19,4 @@ for num in nums:
 
 else:
     print(False)
+
