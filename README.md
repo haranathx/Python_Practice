@@ -19,7 +19,7 @@ Q7. Check if an Element Exists
 
 Q8. Find the Frequency of Each Element
 
-Q9. Two Sum
+Q9. Two Sum , given target, print only index
 
 Q10. Question 1: Move Zeroes
 

@@ -1,12 +1,11 @@
 # Two Sum
 nums = [2, 7, 11, 15]
-target = 18
+target = 13
 
 seen={}
 
-for i in range(len(nums)):
-    num=nums[i]
-    diff=target-num
+for i, num in enumerate(nums):
+    diff = target - num
 
 
     if diff in seen:
