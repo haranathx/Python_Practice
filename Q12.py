@@ -22,17 +22,6 @@ print(result)
 
 
 
-
-
-
-
-
-
-
-
-
-
-
 # for num in nums:
 #     if num==nums[0]:
 #         print(nums[0], nums[1]*nums[2]*nums[3])
